@@ -32,9 +32,9 @@ Clone the repository:
 
 
 ## Photos
-![Alt text of the image](https://github.com/AmanVerma2202/sarvamTaskModified/blob/main/Screenshot%20(97).png)
-![Alt text of the image](https://github.com/AmanVerma2202/sarvamTaskModified/blob/main/Screenshot%20(98).png)
-![Alt text of the image](https://github.com/AmanVerma2202/sarvamTaskModified/blob/main/Screenshot%20(99).png)
+![Alt text of the image](https://github.com/AmanVerma2202/sarvam3/blob/main/Screenshot%20(100).png)
+![Alt text of the image](https://github.com/AmanVerma2202/sarvam3/blob/main/Screenshot%20(101).png)
+![Alt text of the image](https://github.com/AmanVerma2202/sarvam3/blob/main/Screenshot%20(102).png)
 
 
 ## Tech Stack
