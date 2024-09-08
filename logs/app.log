@@ -1,0 +1,1094 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 22:05:50] "GET / HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 22:07:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 22:07:26] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:27:53] "GET / HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:29:20] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:29:21] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:32:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:32:28] "GET / HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:33:54] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:33:55] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:34:45] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:35:40] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:35:51] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:40:30] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:40:35] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:40:44] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:41:21] "GET / HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:42:47] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:42:48] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:51:17] "POST /upload HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:51:25] "POST /upload HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:51:26] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:51:27] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:56:20] "POST /upload HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:56:23] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Sep/2024 23:56:24] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 00:00:23] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 00:00:23] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 00:05:25] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 00:05:26] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 00:19:21] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 00:19:22] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 00:25:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 00:25:18] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:14:07] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:14:08] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:16:03] "GET / HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:17:34] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:17:34] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:19:26] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:19:26] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:23:26] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:23:26] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:25:16] "GET / HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:26:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:26:42] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:30:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:30:17] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:root:Mismatch on page 1: Original '!' (U+0021) Tesseract '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:38:12] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:38:13] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:42:44] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:42:44] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:46:16] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 02:46:17] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:26:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:26:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:27:54] "POST /upload HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:28:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:28:04] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:35:56] "GET / HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:37:26] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:37:27] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:41:59] "GET / HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:43:45] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:43:46] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:46:52] "GET / HTTP/1.1" 200 -
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:48:41] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:48:42] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\PycharmProjects\\SarvamVMLTask\\new\\sarvamNwe.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-909-534
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:root:Mismatch on page 1: Actual embedded '!' (U+0021) To be embedded '$' (U+0024)
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:50:32] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Sep/2024 11:50:32] "GET /pdf/annotated_output.pdf HTTP/1.1" 200 -
