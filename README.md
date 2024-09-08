@@ -28,7 +28,7 @@ Clone the repository:
  ```
 
 ## Demo Video
-[![Watch the demo video](https://github.com/AmanVerma2202/sarvamTaskModified/blob/main/saravm_dzKckfRg%20(1).mp4)](https://github.com/AmanVerma2202/sarvamTaskModified/blob/main/saravm_dzKckfRg%20(1).mp4)
+[![Watch the demo video](https://github.com/AmanVerma2202/sarvam3/blob/main/sarvamrec.mp4)](https://github.com/AmanVerma2202/sarvam3/blob/main/sarvamrec.mp4)
 
 
 ## Photos
